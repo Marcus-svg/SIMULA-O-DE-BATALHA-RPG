@@ -1,6 +1,6 @@
 POO na prática de Classes Abstratas a um Simulador de Batalha RPG em Python.
 
-#⚔️ Simulador de Batalha RPG em Python
+# ⚔️ Simulador de Batalha RPG em Python
 
 Um script simples em Python que simula uma batalha de RPG por turnos entre Heróis e Vilões, criado para demonstrar conceitos de Programação Orientada a Objetos (POO).
 
